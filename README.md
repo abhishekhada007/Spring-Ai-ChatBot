@@ -41,9 +41,6 @@ Java 21
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the project's coding standards and include tests for any new features or bug fixes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgements
 
 Spring Boot
